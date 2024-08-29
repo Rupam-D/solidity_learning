@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getAllVal3",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"5_visibilityand inheritence.sol": "Parent2"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"5_visibilityand inheritence.sol": {
+			"keccak256": "0x777ec98b4e107e6f641a5a121586eae7e8b3d785830f17588684499c4b04dfe2",
+			"license": "Unlicenced",
+			"urls": [
+				"bzz-raw://fbd2dc74a15ea03e1b295457e78df5f4e3f795afe40991bfc6e045f34f3ef52c",
+				"dweb:/ipfs/QmVngScYvxoinCXqAw5qgxTvLjocLvytywFLwZqyj6iwhS"
+			]
+		}
+	},
+	"version": 1
+}
