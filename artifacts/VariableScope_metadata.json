@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myFunc",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "val",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"4_state, local and global scope.sol": "VariableScope"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"4_state, local and global scope.sol": {
+			"keccak256": "0x5696f78e690024edfce8bb3e89039d32b5e53670f18fff34bcad6314b13a505e",
+			"license": "Unlicenced",
+			"urls": [
+				"bzz-raw://cf8bf62b48f1e8d0c4a316ab506c486673e91cf08cf2c417ba74f57dd4bad065",
+				"dweb:/ipfs/QmQkkmQ1k399mc5hBdDmZb2sjJ5gjc7JXkhCT5rzSWYoYy"
+			]
+		}
+	},
+	"version": 1
+}
